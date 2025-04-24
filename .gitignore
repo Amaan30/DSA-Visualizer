@@ -7,8 +7,6 @@ __pycache__/
 *.so
 
 venv/
-__pycache__/
-*.py[cod]
 
 # Distribution / packaging
 .Python
